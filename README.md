@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DBulbul , I am an engineer with having two diploma👩‍🎓
-- 👀 I’m interested in C#,Java,Phyton,SQL
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning Phyton,SQL
 - 📫 How to reach me --> dilarapamukcu21@gmail.com
 
 <!---
