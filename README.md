@@ -54,18 +54,12 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 lob/master/coding.gif?raw=true" width="auto" height="300" />
 
  <!-- total visitor counter -->
-### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${BilgehanArici}.${416281047})
+### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${DBulbul}.${416281047})
 <!-- total visitor counter -->
 
 
 <br>
 
 <hr>
-
-📈 **My GitHub Stats:**
-
-<p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilgehanArici&exclude_repo=KNN-Image-      Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BilgehanArici&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</p>
 
 ⭐️ From [Dilara Bulbul](https://github.com/DBulbul)
