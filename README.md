@@ -3,6 +3,7 @@ DBulbul/DBulbul is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <!---[dilara bülbül](https://user-images.githubusercontent.com/97522259/160603809-8f08ce63-fd9b-4222-af1d-7e991f246864.png)
+![191815_5d9d3ff1ad894e96a2f0a86681563555_mv2 (1)](https://user-images.githubusercontent.com/97522259/160606235-8bc5a3f2-4f07-4e87-8549-ed26103c3088.gif)
 --->
 
 <h1 align="center"> Hi there, I'm Dilara Bülbül <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -15,7 +16,8 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 </br>    
 
 
-![191815_5d9d3ff1ad894e96a2f0a86681563555_mv2 (1)](https://user-images.githubusercontent.com/97522259/160606235-8bc5a3f2-4f07-4e87-8549-ed26103c3088.gif)
+
+![9dcb36579d4518b31451906466dc735d](https://user-images.githubusercontent.com/97522259/160607701-8d9b590d-3e4d-4cca-be4d-386e94a897ef.gif)
 
 ## Personal
                 
