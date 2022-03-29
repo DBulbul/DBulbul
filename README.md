@@ -9,7 +9,6 @@ Hi there,
   👋
 </h1>
 
-
 <h2 align="center">
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 </h2> 
@@ -19,12 +18,7 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   I am a coffee lover☕
   I love novels📚
   </h3>
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/dilara-bülbül/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+![Uploading ScalerCreateImpactGIF.gif…]()
 
 ## 🔭 I'm currently working on
 
@@ -36,6 +30,12 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 
 - 📱 JavaSpring
 - 🐍 Python
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/dilara-bülbül/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 </br>
 </br>
