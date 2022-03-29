@@ -12,6 +12,7 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   </h2> 
 
 </br>     
+![191815_5d9d3ff1ad894e96a2f0a86681563555_mv2 (1)](https://user-images.githubusercontent.com/97522259/160605162-2c6fb850-5941-4481-aac7-5a799caeec57.gif)
 
 ## Personal
                 
