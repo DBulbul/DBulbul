@@ -15,13 +15,9 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 
 </br>    
 
-
-
-![9dcb36579d4518b31451906466dc735d](https://user-images.githubusercontent.com/97522259/160607701-8d9b590d-3e4d-4cca-be4d-386e94a897ef.gif)
-
 ## Personal
                 
-- 👩‍💻 I love the entire process of developing creative projects
+- 👩‍💻 I love the entire process of developing creative projects                                ![9dcb36579d4518b31451906466dc735d](https://user-images.githubusercontent.com/97522259/160607701-8d9b590d-3e4d-4cca-be4d-386e94a897ef.gif)
 - ☕I am a coffee lover
 - 📚I love novels
 - :computer: Software Engineer (Java)
