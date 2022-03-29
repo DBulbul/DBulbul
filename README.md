@@ -14,9 +14,11 @@ Hi there,
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 </h2> 
 
-I love the entire process of developing creative projects👩‍💻
-           I am a coffee lover☕
-                     I love novels📚
+<h1 align="center">
+  I love the entire process of developing creative projects👩‍💻
+  I am a coffee lover☕
+  I love novels📚
+  </h1>
 
 ### 🤝 Connect with me:
 
