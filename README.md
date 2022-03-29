@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ![dilara bülbül](https://user-images.githubusercontent.com/97522259/160603809-8f08ce63-fd9b-4222-af1d-7e991f246864.png)
 
-<align="center"># Hi there, I'm Dilara Bülbül <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center"> Hi there, I'm Dilara Bülbül <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
 
 <h2 align="center">
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
