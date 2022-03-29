@@ -15,8 +15,9 @@ You can click the Preview link to take a look at your changes.Gifs and photos to
 <h2 align="center">
 Welcome to my Github Profile!
   </h2> 
+  
 <p align="center">
-  <a href="https://github.com/DBulbul/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial&Civil%20Engineer%20;Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=cd5c5c&vCenter=true&size=25"></a>
+  <a href="https://github.com/DBulbul/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial-Civil%20Engineer%20;Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=cd5c5c&vCenter=true&size=25"></a>
 </p>
 
 
