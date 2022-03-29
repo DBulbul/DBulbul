@@ -19,9 +19,9 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 
 ## Personal
                 
--  I love the entire process of developing creative projects👩‍💻
--  I am a coffee lover☕
--  I love novels📚
+- 👩‍💻 I love the entire process of developing creative projects
+- ☕I am a coffee lover
+- 📚I love novels
 - :computer: Software Engineer (Java)
 - 👷‍♀️Ex Civil Engineer  
 - 📫 Reach me via email: dilarabulbul21@gmail.com 
