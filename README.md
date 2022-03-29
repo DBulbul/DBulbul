@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   </h2> 
- ![605609942900a56b7d9547ee_animation_500_kmhu8z1q](https://user-images.githubusercontent.com/97522259/160607960-a9b9a161-0050-4cbe-a348-1186bb5713a3.gif)
+ 
 </br>    
 
-
+![605609942900a56b7d9547ee_animation_500_kmhu8z1q](https://user-images.githubusercontent.com/97522259/160607960-a9b9a161-0050-4cbe-a348-1186bb5713a3.gif)
 
 ## Personal
 
