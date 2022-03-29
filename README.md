@@ -18,7 +18,7 @@ I'm a Java Developer 💻
  
 <div id="mainDiv">
 
-<img id="centerdImage" src="https://user-images.githubusercontent.com/97522259/160608626-1359a052-e29d-4890-9187-68ee43c75f45.gif"><\img>
+<img id="centeredImage" src="https://user-images.githubusercontent.com/97522259/160608626-1359a052-e29d-4890-9187-68ee43c75f45.gif"><\img>
 
 <\div>
 <!---![1_qdAW1TjCN57h1lbuuzvchg]()
