@@ -3,9 +3,10 @@ DBulbul/DBulbul is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 <h3 align="center">
-Hi there,  ![dilara bülbül](https://user-images.githubusercontent.com/97522259/160596624-26f89255-4326-469c-9a85-65dff834c280.png)
-👋
+Hi there,  
+  👋
 </h3>
+![dilara bülbül](https://user-images.githubusercontent.com/97522259/160596624-26f89255-4326-469c-9a85-65dff834c280.png)
 
 <h2 align="center">
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
