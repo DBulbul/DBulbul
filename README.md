@@ -14,9 +14,9 @@ Hi there,
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 </h2> 
 
-I love the entire process of developing creative projects👩‍💻
-I am a coffee lover☕
-I love novels📚
+**I love the entire process of developing creative projects👩‍💻
+**I am a coffee lover☕
+**I love novels📚
 
 ### 🤝 Connect with me:
 
@@ -43,6 +43,6 @@ I love novels📚
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DBulbul)](https://github.com/DBulbul/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/DBulbul/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBulbul&layout=compact)](https://github.com/DBulbul/)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=DBulbul.DBulbul)](https://github.com/DBulbul/)
