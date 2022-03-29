@@ -2,10 +2,6 @@
 DBulbul/DBulbul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href=""C:\Users\Mehmet Mert BÜLBÜL\Downloads\dilara bülbül.png"" target="_blank" rel="noreferrer">Dilara</a> 👋
 </h3>
