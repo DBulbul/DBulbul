@@ -1,10 +1,11 @@
 <!---
 DBulbul/DBulbul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes.Gifs and photos to use later is following;
 --->
 <!---[dilara bülbül](https://user-images.githubusercontent.com/97522259/160603809-8f08ce63-fd9b-4222-af1d-7e991f246864.png)
 ![191815_5d9d3ff1ad894e96a2f0a86681563555_mv2 (1)](https://user-images.githubusercontent.com/97522259/160606235-8bc5a3f2-4f07-4e87-8549-ed26103c3088.gif)
  ![9dcb36579d4518b31451906466dc735d](https://user-images.githubusercontent.com/97522259/160607701-8d9b590d-3e4d-4cca-be4d-386e94a897ef.gif)
+![605609942900a56b7d9547ee_animation_500_kmhu8z1q](https://user-images.githubusercontent.com/97522259/160607960-a9b9a161-0050-4cbe-a348-1186bb5713a3.gif)
 --->
 
 <h1 align="center"> Hi there, I'm Dilara Bülbül <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -15,8 +16,8 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   </h2> 
  
 </br>    
+![gif-dilara](https://user-images.githubusercontent.com/97522259/160608365-eec249d4-842c-4ec2-91ef-f264cfe80c35.gif)
 
-![605609942900a56b7d9547ee_animation_500_kmhu8z1q](https://user-images.githubusercontent.com/97522259/160607960-a9b9a161-0050-4cbe-a348-1186bb5713a3.gif)
 
 ## Personal
 
