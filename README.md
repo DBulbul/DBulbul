@@ -51,8 +51,6 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBulbul&layout=compact)](https://github.com/DBulbul/)
 
-lob/master/coding.gif?raw=true" width="auto" height="300" />
-
  <!-- total visitor counter -->
 ### Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${DBulbul}.${416281047})
 <!-- total visitor counter -->
