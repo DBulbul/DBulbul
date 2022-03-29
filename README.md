@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.Gifs and photos to
 </h1>
 
 <h2 align="center">
-Welcome to my Github Profile
+Welcome to my Github Profile!
   </h2> 
  
 
