@@ -4,21 +4,21 @@ You can click the Preview link to take a look at your changes.
 --->
 ![dilara bülbül](https://user-images.githubusercontent.com/97522259/160596624-26f89255-4326-469c-9a85-65dff834c280.png)
 
-<h3 align="center">
+<h1 align="center">
 Hi there,  
   👋
-</h3>
+</h1>
 
 
 <h2 align="center">
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 </h2> 
 
-<h1 align="center">
+<h3 align="center">
   I love the entire process of developing creative projects👩‍💻
   I am a coffee lover☕
   I love novels📚
-  </h1>
+  </h3>
 
 ### 🤝 Connect with me:
 
