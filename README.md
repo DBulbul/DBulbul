@@ -18,7 +18,8 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   I am a coffee lover☕
   I love novels📚
   </h3>
-![Uploading ScalerCreateImpactGIF.gif…]()
+
+![gif]("C:\Users\Mehmet Mert BÜLBÜL\Desktop\DİLARA KİŞİSEL\NORMA BOOTCAMP\191815_5d9d3ff1ad894e96a2f0a86681563555_mv2.gif")
 
 ## 🔭 I'm currently working on
 
