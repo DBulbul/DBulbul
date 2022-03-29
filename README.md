@@ -17,7 +17,7 @@ Welcome to my Github Profile!
   </h2> 
   
 <p align="center">
-  <a href="https://github.com/DBulbul/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial-Civil%20Engineer%20;Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=cd5c5c&vCenter=true&size=25"></a>
+  <a href="https://github.com/DBulbul/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Industrial%20Engineer%20;Back-end%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=cd5c5c&vCenter=true&size=25"></a>
 </p>
 
 
@@ -34,7 +34,6 @@ Welcome to my Github Profile!
 - 📚I love novels
 - :computer: Software Engineer (Java)
 - 👷‍♀️B.S. in Industrial Engineering from Bilkent University(2016)
-- 👷‍♀️B.S. in Civil Engineering from Atılım University(2020)
 - 📫 Reach me via email: dilarabulbul21@gmail.com 
 
 
