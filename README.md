@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href=""C:\Users\Mehmet Mert BÜLBÜL\Downloads\dilara bülbül.png"" target="_blank" rel="noreferrer">Dilara</a> 👋
 </h3>
 
 <h2 align="center">
