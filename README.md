@@ -11,9 +11,11 @@ You can click the Preview link to take a look at your changes.
 I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
   </h2> 
 
-</br>     
+</br>    
+![191815_5d9d3ff1ad894e96a2f0a86681563555_son](https://user-images.githubusercontent.com/97522259/160605754-791aefea-2269-47b5-9908-a1cf9b26eb1e.gif)
 
-![191815_5d9d3ff1ad894e96a2f0a86681563555_mv2](https://user-images.githubusercontent.com/97522259/160605306-e2b129d4-b00c-4f18-94f7-ebd0c1251041.gif)
+
+
 
 ## Personal
                 
