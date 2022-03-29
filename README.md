@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.Gifs and photos to
 </h1>
 
 <h2 align="center">
-I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
+I'm a Java Developer 💻
   </h2> 
  
 
@@ -28,7 +28,8 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 - ☕I am a coffee lover
 - 📚I love novels
 - :computer: Software Engineer (Java)
-- 👷‍♀️Ex Civil Engineer  
+- 👷‍♀️B.S. in Industrial Engineering from Bilkent University(2016)
+- 👷‍♀️B.S. in Civil Engineering from Atılım University(2020)
 - 📫 Reach me via email: dilarabulbul21@gmail.com 
 
 
@@ -37,6 +38,7 @@ I'm a Java Developer 💻with having 2 engineering diploma👩‍🎓
 - My old construction projects👷‍♀️
 - JavaSpring Bootcamp
 - Java
+- PostgreSQL
 
 ## 🌱 I'm currently learning
 
