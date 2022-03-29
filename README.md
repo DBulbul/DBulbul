@@ -16,8 +16,8 @@ You can click the Preview link to take a look at your changes.Gifs and photos to
 I'm a Java Developer 💻
   </h2> 
  
-<div id="mainDiv"><img id="centeredImage" src="https://user-images.githubusercontent.com/97522259/160608626-1359a052-e29d-4890-9187-68ee43c75f45.gif"><\img>
-<\div>
+<img id="center" src="https://user-images.githubusercontent.com/97522259/160608626-1359a052-e29d-4890-9187-68ee43c75f45.gif"><\img>
+
 <!---![1_qdAW1TjCN57h1lbuuzvchg]()
 --->
 
