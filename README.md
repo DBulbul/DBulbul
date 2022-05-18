@@ -32,7 +32,7 @@ Welcome to my Github Profile!
 - 👩‍💻 I love the entire process of developing creative projects                               
 - ☕I am a coffee lover
 - 📚I love novels
-- :computer: Software Engineer (Java)
+- :computer: Software Developer (Java)
 - 👷‍♀️B.S. in Industrial Engineering from Bilkent University(2016)
 - 📫 Reach me via email: dilarabulbul21@gmail.com 
 
