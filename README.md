@@ -8,7 +8,6 @@ You can click the Preview link to take a look at your changes.Gifs and photos to
 ![605609942900a56b7d9547ee_animation_500_kmhu8z1q](https://user-images.githubusercontent.com/97522259/160607960-a9b9a161-0050-4cbe-a348-1186bb5713a3.gif)
 ![gif-dilara](https://user-images.githubusercontent.com/97522259/160608365-eec249d4-842c-4ec2-91ef-f264cfe80c35.gif)
 --->
-
 <h1 align="center"> Hi there, I'm Dilara Bülbül <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </h1>
 
